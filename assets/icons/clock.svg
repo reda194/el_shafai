@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Time Circle">
+<path id="Stroke 1" fill-rule="evenodd" clip-rule="evenodd" d="M11 6C11 8.76162 8.76162 11 6 11C3.23838 11 1 8.76162 1 6C1 3.23838 3.23838 1 6 1C8.76162 1 11 3.23838 11 6Z" stroke="var(--stroke-0, white)" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Stroke 3" d="M7.85491 7.59047L5.81707 6.37479V3.75479" stroke="var(--stroke-0, white)" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

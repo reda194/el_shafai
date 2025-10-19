@@ -1,0 +1,12 @@
+export 'presentation/pages/onboarding_flow.dart';
+export 'presentation/pages/onboarding_screen.dart';
+export 'presentation/pages/onboarding_screen_1.dart';
+export 'presentation/pages/onboarding_screen_2.dart';
+export 'presentation/pages/onboarding_screen_3.dart';
+export 'presentation/pages/onboarding_screen_4.dart';
+export 'presentation/pages/onboarding_screen_5.dart';
+export 'presentation/pages/onboarding_screen_6.dart';
+export 'presentation/widgets/onboarding_illustration_6.dart';
+export 'presentation/widgets/onboarding_page.dart';
+export 'presentation/widgets/page_indicator.dart';
+export 'presentation/cubit/onboarding_cubit.dart';
